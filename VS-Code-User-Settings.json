@@ -1,0 +1,84 @@
+{
+    "[python]": {
+        "editor.insertSpaces": false,
+        "editor.detectIndentation": false,
+        "editor.tabSize": 4
+    },
+
+    "editor.renderWhitespace": "all",
+    "editor.guides.indentation": true,
+    "editor.guides.highlightActiveIndentation": true,
+
+    "window.autoDetectColorScheme": true,
+
+    "python.defaultInterpreterPath": "/home/wojciech-ma-kowiak/Dokumenty/Python/.venv/bin/python",
+
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.diagnosticMode": "openFilesOnly",
+    "python.analysis.indexing": false,
+    "python.analysis.inlayHints.functionReturnTypes": true,
+    "python.analysis.logLevel": "Error",
+
+    "security.workspace.trust.untrustedFiles": "open",
+
+    "git.enableSmartCommit": true,
+
+    "editor.suggest.selectionMode": "never",
+
+    "chat.disableAIFeatures": true,
+
+    "files.watcherExclude": {
+        "**/.venv/**": true,
+        "**/__pycache__/**": true,
+        "**/.pytest_cache/**": true,
+        "**/.mypy_cache/**": true
+    },
+
+    "search.exclude": {
+        "**/.venv": true,
+        "**/__pycache__": true,
+        "**/.pytest_cache": true,
+        "**/.mypy_cache": true
+    },
+
+    "editor.unicodeHighlight.includeComments": false,
+    "editor.unicodeHighlight.includeStrings": false,
+
+    "editor.semanticTokenColorCustomizations": {
+        "enabled": true,
+        "rules": {
+            "variable:python": {
+                "foreground": "#E5C07B"
+            },
+            "variable.readonly:python": {
+                "foreground": "#FF79C6",
+                "fontStyle": "italic"
+            },
+            "property:python": {
+                "foreground": "#8BE9FD"
+            },
+            "*.self:python": {
+                "foreground": "#FF79C6",
+                "fontStyle": "italic"
+            }
+        }
+    },
+
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "string.quoted.docstring.multi.python",
+                    "punctuation.definition.string.begin.python",
+                    "punctuation.definition.string.end.python"
+                ],
+                "settings": {
+                    "foreground": "#57A64A",
+                    "fontStyle": "italic"
+                }
+            }
+        ]
+    },
+    "editor.insertSpaces": false,
+    "editor.inlayHints.enabled": "off"
+}
