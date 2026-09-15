@@ -11,8 +11,6 @@
 
     "window.autoDetectColorScheme": true,
 
-    "python.defaultInterpreterPath": "/home/wojciech-ma-kowiak/Dokumenty/Python/.venv/bin/python",
-
     "python.analysis.typeCheckingMode": "basic",
     "python.analysis.diagnosticMode": "openFilesOnly",
     "python.analysis.indexing": false,
