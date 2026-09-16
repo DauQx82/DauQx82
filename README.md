@@ -1,6 +1,6 @@
 # Hi, I'm DauQx82
 
-Native Polish speaker, poor English speaker 🤣️
+Native Polish speaker 🇵🇱️
 I'm a VNA operator working night shifts and a hobby programmer in my free time. I enjoy building practical tools that solve real problems while helping me understand how things work under the hood.
 
 ## About me
@@ -27,6 +27,3 @@ A terminal-based calculator and an opportunity to explore Python's `curses` libr
 ## How I use AI
 
 I use ChatGPT mainly as a learning partner and reviewer: to discuss design choices, audit code, challenge my assumptions, and improve documentation. My goal is to understand what I build—not to generate entire projects without learning from the process.
-
-## VS Code settings
-In this repository [VS-Code-User-Settings.json] there is my personal VS Code OUS
