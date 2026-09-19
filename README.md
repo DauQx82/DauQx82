@@ -24,6 +24,10 @@ A practical personal project focused on solving a real problem and learning thro
 
 A terminal-based calculator and an opportunity to explore Python's `curses` library and TUI design.
 
+### [dirtree-md](https://github.com/DauQx82/dirtree-md)
+
+A small CLI tool for generating Markdown-friendly directory trees.
+
 ## How I use AI
 
 I use ChatGPT mainly as a learning partner and reviewer: to discuss design choices, audit code, challenge my assumptions, and improve documentation. My goal is to understand what I build—not to generate entire projects without learning from the process.
